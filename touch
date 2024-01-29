@@ -1,0 +1,6 @@
+echo -n "please enter your name: "
+read name
+echo -n "please enter your team: "
+read team
+echo "welcome $name to Etech Devops Class and welcome to $team"
+echo "End of script" 
